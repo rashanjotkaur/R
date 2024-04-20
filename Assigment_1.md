@@ -21,6 +21,6 @@ Data Description: You have been given a dataset containing information about stu
    g. Explore the 'Passed' variable. Calculate the percentage of students who are passed.  
    h. Create a vector containing the ages of all students. Use indexing to extract the age of the third student in the vector.  
    i. Use the `$` accessor to extract the scores of female students only.  
-   j. Convert the 'Grade' variable to a factor. Print the levels of the 'Grade' variable to verify the change.
-   k. Print the student details having highest score.
+   j. Convert the 'Grade' variable to a factor. Print the levels of the 'Grade' variable to verify the change.  
+   k. Print the student details having highest score.   
    l. Sort the student grades and print.
