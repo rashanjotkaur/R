@@ -9,7 +9,7 @@ Data Description: You have been given a dataset containing information about stu
    - Passed: Whether the student passed the test (Logical: TRUE or FALSE)
 
 ### Problem Statements 
-   a. Create a data frame to store the student data. You can manually create this data frame using the provided information.
+   a. Create a data frame to store the student data. You can manually create this data frame using the provided information.  
    b. Use the `str()` function to examine the structure of the data frame. Describe the types of variables and their attributes.
    c. Calculate and print the following summary statistics for the 'Score' variable:
       - Mean score
