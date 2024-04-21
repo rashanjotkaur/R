@@ -1,4 +1,4 @@
-# Assignment: Assesment of R Basics
+# Assignment: Assessment of R Basics
 
 ## 1.2: Q1  
     Let's say you have questions about what the mean() function does. Which of the following can you type in R to learn more about this function?
