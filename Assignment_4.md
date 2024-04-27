@@ -1,4 +1,4 @@
-# Assignment: Assessment of R Basics
+# Assignment: Assessment of R Basics, Functions and Data Types
 
 ## Q1:
    What are the two solutions to 2x^2-x-4=0 ? Use the quadratic equation.
