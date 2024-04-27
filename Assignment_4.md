@@ -13,23 +13,23 @@
    How many different variables are in the dataset?
 
 ## Q3c:
-   What is the variable type of title ?
-   A. It is a text (txt) variable
-   B. It is a chronological (chr) variable
-   C. It is a string (str) variable
-   D. It is a numeric (num) variable
-   E. It is an integer (int) variable
-   D. It is a factor (Factor) variable
-   E. It is a character (chr) variable
+   What is the variable type of title ?  
+   A. It is a text (txt) variable  
+   B. It is a chronological (chr) variable  
+   C. It is a string (str) variable  
+   D. It is a numeric (num) variable  
+   E. It is an integer (int) variable  
+   F. It is a factor (Factor) variable  
+   G. It is a character (chr) variable
 
 ## Q3d:
-   What is the variable type of genres ?
-   A. It is a text (txt) variable
-   B. It is a chronological (chr) variable
-   C. It is a string (str) variable
-   D. It is a numeric (num) variable
-   E. It is an integer (int) variable
-   F. It is a factor (Factor) variable
+   What is the variable type of genres ?  
+   A. It is a text (txt) variable   
+   B. It is a chronological (chr) variable  
+   C. It is a string (str) variable  
+   D. It is a numeric (num) variable  
+   E. It is an integer (int) variable  
+   F. It is a factor (Factor) variable  
    G. It is a character (chr) variable
 
 ## Q4:   
