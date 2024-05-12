@@ -111,11 +111,20 @@
 
 ## Assesement 3.1
 
-### Answer 1
-    A and C
+    1. A and C
     Explanation
     which(), match(), and %in% can all be used to subset the data. However, in this case the match() option uses capital letters, which don’t exist in our dataset, and one of the which() functions uses = instead of ==, which is incorrect.
+    2. B
 
-### Answer 2
-    B
+## Assesement 3
 
+    1. 532
+    2. 31
+    3. 0.227
+    4. 50, 1032, Male
+    5. 82.7,  [50 51 52 53 54 55 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81],  3
+    6. 163, 174
+    7. 238, 165
+    8. B
+    9. A
+    10. Southern Italy
