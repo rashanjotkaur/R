@@ -102,8 +102,9 @@
         D. There are equal numbers of olive oils with eicosenoic acid below 0.05% and greater than 0.5%.
 
 ### Question 10
-    Make a boxplot of palmitic acid percentage in olive with separate distributions for each region. Which region has the highest median palmitic acid percentage?
-    Select an option Which region has the most variable palmitic acid percentage?
+    Make a boxplot of palmitic acid percentage in olive with separate distributions for each region. 
+    A. Which region has the highest median palmitic acid percentage?
+    B. Which region has the most variable palmitic acid percentage?
 
 
 
@@ -127,4 +128,4 @@
     7. 238, 165
     8. B
     9. A
-    10. Southern Italy
+    10. Southern Italy, Southern Italy
